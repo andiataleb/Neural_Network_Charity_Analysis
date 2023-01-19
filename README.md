@@ -8,14 +8,14 @@ The purpose of this project is to create a binary classifier that is capable of 
 
 ## Results
 
-# *Data Preprocessing*
+#### *Data Preprocessing*
 - What variable(s) are considered the target(s) for your model?
 The variable columns IS SUCCESSFUL is the target for this model.
 - What variable(s) are considered to be the features for your model?
 The feature variables of this model are: APPLICATION_TYPE, AFFILIATION, CLASSIFICATION, USE_CASE, ORGANIZATION, STATUS, INCOME_AMN, SPECIAL_CONSIDERATIONS, and ASK_AMT. 
 - What variable(s) are neither targets nor features, and should be removed from the input data?
 The EIN and NAME variables should be removed from the input data. 
-# *Compiling, Training, and Evaluating the Model*
+#### *Compiling, Training, and Evaluating the Model*
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
 ![](/Images/1.png)
